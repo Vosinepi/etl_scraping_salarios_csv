@@ -28,6 +28,10 @@ Tambien se realizo un pequeño analisis de los datos.
 - [Sueldos de personal municipal por intervalo salarial](graficos\sueldos_torta.png)
   <img src="graficos/sueldos_torta.png" alt="Sueldos de personal municipal por intervalo salarial" width="500"/>
 
+## A futuro
+
+- Volcado de la informacion en una Base de Datos
+
 ## Contacto
 
 - [Linkedin](https://www.linkedin.com/in/iber-ismael-piovani-8b35bbba/)
